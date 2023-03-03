@@ -12,7 +12,7 @@
 			"**/CVS": true,
 			"**/.DS_Store": true,
 			"**/env": true,
-      		"**/.idea": true,
+			"**/.idea": true,
 			"**/__archive__": true,
 			"**/_gsdata_":true,
 			"**/node_modules":true, 
