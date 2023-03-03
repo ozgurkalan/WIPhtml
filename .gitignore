@@ -273,6 +273,7 @@ dist
 ###########################################################
 
 !tests/test_folder/*.*
+!html.code-workspace
 # re-remove unwanted
 .DS_Store
 tmp/
